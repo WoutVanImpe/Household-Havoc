@@ -1,0 +1,21 @@
+{
+  "name": "household-havoc",
+  "version": "1.0.0",
+  "description": "React-powered experimental game combining deckbuilding, elemental combat, and the joy of battling sentient microwaves.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WoutVanImpe/Household-Havoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/WoutVanImpe/Household-Havoc/issues"
+  },
+  "homepage": "https://github.com/WoutVanImpe/Household-Havoc#readme"
+}
